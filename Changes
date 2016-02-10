@@ -1,5 +1,12 @@
 Revision history for Acme-PERLANCAR-Test-ScriptNameSameAsModuleName
 
-0.01     2016-02-10 (PERLANCAR) (unreleased)
+0.02     2016-02-10 (PERLANCAR)
+
+         - No functional changes.
+
+         - [build] Forgot to use InsertExecsList dzil plugin.
+
+
+0.01     2016-02-10 (PERLANCAR)
 
          - First release.
